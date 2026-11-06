@@ -34,7 +34,7 @@ During testing, the simulated vehicle was commanded to drive forward at 1.0 m/s 
 
 ## Demonstration
 
-A simulator demonstration recording will be added here.
+[Watch the Automatic Emergency Braking Demo](https://github.com/AnnikaSylviaQuintana/ros2-automatic-emergency-braking/blob/main/ROS2_Automatic_Emergency_Braking_Demo.mp4.mp4)
 
 ## Acknowledgements
 
